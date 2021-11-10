@@ -1,5 +1,5 @@
 # LittleSeed
-A look at some of the projects I worked on a LittleSeed. I'm just showing off a little bit of what I helped build :D
+A look at some of the projects I worked on at LittleSeed. I'm just showing off a little bit of what I helped build :D
 
 ## VARIAT Sim
 
