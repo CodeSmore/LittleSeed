@@ -11,13 +11,9 @@ It was created with Unity3D, utilizing the earliest version of AR Foundation for
 
 A core feature of the application is to teach and encourage empathy through simulation. Note the dialogue system, character animations, and varying scenarios.
 
-**
+https://user-images.githubusercontent.com/15611558/141121733-6f9ff231-3965-4881-8a36-8fbfd77b53ed.mp4
 
-https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Sim%201.mp4
-
-https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Sim%202.mp4
-
-**
+https://user-images.githubusercontent.com/15611558/141121755-51e8f371-f894-4511-b17d-6dbe5607f6fc.mp4
 
 ### Cited Statistics and Data
 
@@ -25,13 +21,9 @@ VARIAT provides data with sources to educate the user with research rather than 
 
 A unique blend of Unity's GUI (uGUI) and plain-text input are utilized to allow for fast and easy changes and additions for every piece of text seen in the app.
 
-**
+https://user-images.githubusercontent.com/15611558/141121825-52fbc27e-990e-4fa6-b5ff-be198cf8c159.mp4
 
-https://user-images.githubusercontent.com/15611558/141119562-007b7a4e-f91e-4951-bc04-722d80ab7721.mp4
-
-https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Data%202.mp4
-
-**
+https://user-images.githubusercontent.com/15611558/141121876-529387c4-3950-449b-a587-c64f84fb9f33.mp4
 
 ### Augmented Reality
 
@@ -39,25 +31,21 @@ VARIAT sim utilizes a combination of AR & VR to enable unique viewpoints when lo
 
 These experiences utilize Unity's AR Foundation when it was still in it's version 1.0 experimental state. They use markerless placement, plane detection, active scaling & position changes, and many of the core features found in Unity.
 
-**
-
-https://github.com/CodeSmore/LittleSeed/blob/main/Videos/AR%201%20(med).mp4
 How do you make the right decisions when time and money are limited?
 
-https://github.com/CodeSmore/LittleSeed/blob/main/Videos/AR%202%20(med).mp4
+https://user-images.githubusercontent.com/15611558/141121939-d03fea09-b83c-4de0-9226-54c203ecf2dd.mp4
+
 How can we make patients feel more welcome and at-ease with decorations and aesthetics?
 
-**
+https://user-images.githubusercontent.com/15611558/141121993-efc26c4d-ed66-4fe3-945b-2bb6d1d1311d.mp4
 
 ### Learning Opportunities
 
 Quizes are used to test the user's knowledge <b>BEFORE</b> and <b>AFTER</b> points of learning. Medical Professionals can even acquire Continuing Medical Education (CME) credits if they test well in the APPLY section at the end of each Module!
 
-** 
+https://user-images.githubusercontent.com/15611558/141122047-3904d309-7d48-441e-9e9f-641ca18ac156.mp4
 
-https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Quiz%201.mp4
-
-https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Quiz%202.mp4
+https://user-images.githubusercontent.com/15611558/141122063-0679fa5d-dbc9-4b06-af66-0c625ccfcb16.mp4
 
 ## Voyager (Previously VoxelBay)
 
