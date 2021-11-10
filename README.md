@@ -27,7 +27,7 @@ A unique blend of Unity's GUI (uGUI) and plain-text input are utilized to allow 
 
 **
 
-https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Data%201.mp4
+https://user-images.githubusercontent.com/15611558/141119562-007b7a4e-f91e-4951-bc04-722d80ab7721.mp4
 
 https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Data%202.mp4
 
