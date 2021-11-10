@@ -13,12 +13,9 @@ A core feature of the application is to teach and encourage empathy through simu
 
 **
 
-GIFs (End on choices for effect)
+https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Sim%201.mp4
 
-GIF of Black Family sim
-
-GIF of 2 Mothers sim
-<img src="" width="">
+https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Sim%202.mp4
 
 **
 
@@ -30,7 +27,9 @@ A unique blend of Unity's GUI (uGUI) and plain-text input are utilized to allow 
 
 **
 
-2 images of interesting data (maybe one of data, one of sources)
+https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Data%201.mp4
+
+https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Data%202.mp4
 
 **
 
@@ -42,9 +41,11 @@ These experiences utilize Unity's AR Foundation when it was still in it's versio
 
 **
 
-1st AR: Note - How do you make the right decisions when time and money are limited?
+https://github.com/CodeSmore/LittleSeed/blob/main/Videos/AR%201%20(med).mp4
+How do you make the right decisions when time and money are limited?
 
-2nd AR: Note - How can we make patients feel more welcome and at-ease with decorations and aesthetics?
+https://github.com/CodeSmore/LittleSeed/blob/main/Videos/AR%202%20(med).mp4
+How can we make patients feel more welcome and at-ease with decorations and aesthetics?
 
 **
 
@@ -54,9 +55,9 @@ Quizes are used to test the user's knowledge <b>BEFORE</b> and <b>AFTER</b> poin
 
 ** 
 
-Matching question GIF
+https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Quiz%201.mp4
 
-My favorite question (what ever that is)
+https://github.com/CodeSmore/LittleSeed/blob/main/Videos/Quiz%202.mp4
 
 ## Voyager (Previously VoxelBay)
 
