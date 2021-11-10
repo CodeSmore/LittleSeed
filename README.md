@@ -11,9 +11,9 @@ It was created with Unity3D, utilizing the earliest version of AR Foundation for
 
 A core feature of the application is to teach and encourage empathy through simulation. Note the dialogue system, character animations, and varying scenarios.
 
-https://user-images.githubusercontent.com/15611558/141121733-6f9ff231-3965-4881-8a36-8fbfd77b53ed.mp4
+https://user-images.githubusercontent.com/15611558/141123224-bc03675d-1f27-4d67-a309-d7bf91ca6f82.mp4
 
-https://user-images.githubusercontent.com/15611558/141121755-51e8f371-f894-4511-b17d-6dbe5607f6fc.mp4
+https://user-images.githubusercontent.com/15611558/141123244-4f164449-f48c-4123-a966-6d964b017c6b.mp4
 
 ### Cited Statistics and Data
 
@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/15611558/141121939-d03fea09-b83c-4de0-
 
 How can we make patients feel more welcome and at-ease with decorations and aesthetics?
 
-https://user-images.githubusercontent.com/15611558/141121993-efc26c4d-ed66-4fe3-945b-2bb6d1d1311d.mp4
+https://user-images.githubusercontent.com/15611558/141123296-fc6715d8-c028-408e-9cfe-f5b6d126921d.mp4
 
 ### Learning Opportunities
 
