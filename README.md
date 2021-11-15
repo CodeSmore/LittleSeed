@@ -55,7 +55,7 @@ Voyager is separated into 4 main parts:
 
 ### The Hub
 
-<img src="https://github.com/CodeSmore/LittleSeed/blob/main/Images/The%20Hub.png" width="500">
+<img src="https://github.com/CodeSmore/LittleSeed/blob/main/Images/The%20Hub.png" width="800">
 
 Here the user sails about the islands, interacts with seas life and characters, and helps troubled inhabitants through mini-games.
 
@@ -63,7 +63,7 @@ I worked to fix a few egregious bugs in the boat nav system, the loading of leve
 
 ### Crab Game
 
-<img src="https://github.com/CodeSmore/LittleSeed/blob/main/Images/Crab%20Game.png" width="500">
+<img src="https://github.com/CodeSmore/LittleSeed/blob/main/Images/Crab%20Game.png" width="800">
 
 The seagulls are causing a ruckus! Help the crabs get rid of these troublemakers.
 
@@ -71,7 +71,7 @@ My work in this was quite limited. I assisted the creator to make QOL (quality o
 
 ### Underwater Game
 
-<img src="https://github.com/CodeSmore/LittleSeed/blob/main/Images/Underwater%20Game.png" width="500">
+<img src="https://github.com/CodeSmore/LittleSeed/blob/main/Images/Underwater%20Game.png" width="800">
 
 The ocean floor is full of mystery and...treasure!? See what you can find.
 
@@ -79,7 +79,7 @@ Here's one where I created the many elements, including movement through the wor
 
 ### Dragon Game
 
-<img src="https://github.com/CodeSmore/LittleSeed/blob/main/Images/Dragon%20Game.png" width="500">
+<img src="https://github.com/CodeSmore/LittleSeed/blob/main/Images/Dragon%20Game.png" width="800">
 
 A party is going to start at sundown, but the guests are having trouble navigating the waters! Help the dragon light the torches so the ships can safely arrive.
 
