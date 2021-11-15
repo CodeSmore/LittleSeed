@@ -49,4 +49,30 @@ https://user-images.githubusercontent.com/15611558/141122063-0679fa5d-dbc9-4b06-
 
 ## Voyager (Previously VoxelBay)
 
-<b>VoxelBay</b> (link to text) is just one part of an initiative to provide pain and anxiety relief in clinics. <b>Voyager</b> is the next step in reaching that goal. 
+<b>VoxelBay</b> is just one part of an initiative to provide pain and anxiety relief in clinics. <b>Voyager</b> is the next step in reaching that goal by providing an immersive experience full of exploration, games, and colorful characters.
+
+Voyager is separated into 4 main parts:
+
+###The Hub
+
+Here the user sails about the islands, interacts with seas life and characters, and helps troubled inhabitants through mini-games.
+
+I worked to fix a few egregious bugs in the boat nav system, the loading of levels, and a couple inefficiencies. 
+
+###Crab Game
+
+The seagulls are causing a ruckus! Help the crabs get rid of these troublemakers.
+
+My work in this was quite limited. I assisted the creator to make QOL (quality of life) changes to create a consistent experience.
+
+###Underwater Game
+
+The ocean floor is full of mystery and...treasure!? See what you can find.
+
+Here's one where I created the many elements, including movement through the world, camera sway corrections, interactions with elements on the seabed, and the systems that connect them.
+
+###Dragon Game
+
+A party is going to start at sundown, but the guests are having trouble navigating the waters! Help the dragon light the torches so the ships can safely arrive.
+
+Similar to the Underwater level, in this game, I worked on the movement, the rules of the game, and all the moving parts!
